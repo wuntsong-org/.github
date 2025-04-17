@@ -22,13 +22,13 @@
 仓库将转换未只读，若由新发展需要，请`Fork`仓库。
 
 ## 关于重组
-开发组织并非无重组可能，但不会以【广州桓创信息科技有限公司】的名义再次重组，亦不会命名未【广州桓创信息科技有限公司-开发组织】和【wuntsong-org】。
+开发组织并非无重组可能，但不会以 **【广州桓创信息科技有限公司】** 的名义再次重组，亦不会命名未 **【广州桓创信息科技有限公司-开发组织】** 和 **【wuntsong-org】** 。
 
 ## 敬告
-`wuntsong`，`wuntsong.com`、`400-930-118`将不在会是我们的标识，请谨防上当受骗。
+`桓创`、`wuntsong`，`wuntsong.com`、`400-930-1816`将不在会是我们的标识，请谨防上当受骗。
 
 ## 联系方式
-若您有需要或想法，可以联系[宋子桓](https://github.com/SongZihuan)，你可以通过邮件的形式[songzihuan@song-zh.com](mailto:songzihuan@song-zh.com)方式联系我们。
+若您有需要或想法，可以联系[宋子桓](https://github.com/SongZihuan)，你可以通过邮件的形式[contact@song-zh.com](mailto://contact@song-zh.com)方式联系我们。
 
 ## 鸣谢
 非常感谢。
